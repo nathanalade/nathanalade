@@ -1,4 +1,4 @@
-# 🧬 Nathan Alade <img align="right" src = "" width="135px">
+# 🧬 Nathan Alade <img align="right" src = "Github Badge v3 - NA.png" width="135px">
 
 **`CLINICAL PHARMACOLOGY & PHARMACOMETRICS | PHARMACOGENOMICS | DRUG METABOLISM`**
 
